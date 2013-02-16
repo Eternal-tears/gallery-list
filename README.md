@@ -3,7 +3,7 @@ gallery-list
 
 テーマ内のギャラリーをテーマ化
 
-■表示したい部分に入れるソース
+<h2>表示したい部分に入れるソース</h2>
 
-<?php add_gallery(); ?>
+[php]<?php add_gallery(); ?>[/php]
 
