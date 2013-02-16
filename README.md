@@ -5,5 +5,4 @@ gallery-list
 
 <h2>表示したい部分に入れるソース</h2>
 
-[php]<?php add_gallery(); ?>[/php]
-
+    <?php add_gallery(); ?>
